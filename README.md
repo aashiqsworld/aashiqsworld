@@ -2,7 +2,7 @@
 
 I work at the intersection of graphics programming, spatial computing, and immersive storytelling.
 
-[Check out my website for more info.](aashiqshaikh.com)
+[Check out my website for more info.](https://www.aashiqshaikh.com/)
 
 
 <!--
