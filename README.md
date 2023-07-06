@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi 👋 I'm Aashiq
+
+I work at the intersection of graphics programming, spatial computing, and immersive storytelling.
+
+[Check out my website for more info.](aashiqshaikh.com)
+
 
 <!--
 **aashiqsworld/aashiqsworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
